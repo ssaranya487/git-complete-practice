@@ -1,2 +1,3 @@
 Hello Git
 This is feature1 work
+This is feature2 change
